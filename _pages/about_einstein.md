@@ -4,10 +4,3 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Originally from India, I have been fascinated by math since I was a kid. In high school, I participated in math olympiads, clearing the Indian National Mathematical Olympiad (INMO) twice and winning a bronze medal at the Asian Pacific Mathematical Olympiad (APMO). I also authored the book Modern Olympiad Number Theory. 
-
-At [UMass Amherst](https://www.umass.edu/), I continued my interest in math by taking graduate courses in pure math, specializing in algebraic geometry. I was a student of [Professor Jenia Tevelev](https://www.umass.edu/mathematics-statistics/about/directory/jenia-tevelev) and wrote a paper in birational geometry under his guidance, the preprint of which is on arXiv, see [arXiv:2410.15301](https://arxiv.org/abs/2410.15301). I worked on my honors thesis under [Professor Paul Hacking](https://www.umass.edu/mathematics-statistics/about/directory/paul-hacking) on a conjecture of [János Kollár](https://web.math.princeton.edu/~kollar/) on smoothings of rational singularities, and a potential counterexample. 
-
-I attended the [math REU](https://sites.google.com/umass.edu/math-stat-reu) at UMass twice and was invited to attend the [IAS PCMI 2024](https://www.ias.edu/pcmi/pcmi-2024-research-program) program on motivic homotopy theory. I was also the President of the [Integrated Math Majors Club](https://umassamherst.campuslabs.com/engage/organization/integratedmathmajors) at UMass, where we organized panels, competitions (such as a [UMass integration bee](https://www.umass.edu/mathematics-statistics/integration-bee)) and events. 
-
-I will be pursuing graduate school at the [University of Chicago](https://www.uchicago.edu/en) starting Autumn 2025.
